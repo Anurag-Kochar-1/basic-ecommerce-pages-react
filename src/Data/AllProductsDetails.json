@@ -1,0 +1,54 @@
+[
+    {
+        "id" : "1",
+        "name" : "Solids: Sky Blue",
+        "photoUrl" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1647445563_4883159.jpg?format=webp&w=768&dpr=1.3",
+        "price" : "₹ 499"
+    },
+
+    {
+        "id" : "2",
+        "name" : "Solids: Dark Green",
+        "photoUrl" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1663570168_1774325.jpg?format=webp&w=1080&dpr=1.3",
+        "price" : "₹ 699"
+    },
+
+    {
+        "id" : "3",
+        "name" : "Basic Solids: Burgundy",
+        "photoUrl" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1655111859_4174653.jpg?format=webp&w=1080&dpr=1.3",
+        "price" : "₹ 799"
+    },
+
+    {
+        "id" : "4",
+        "name" : "Solid Polo: Acid Blue",
+        "photoUrl" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1663668899_5616262.jpg?format=webp&w=1080&dpr=1.3",
+        "price" : "₹ 799"
+    },
+    {
+        "id" : "5",
+        "name" : "Solids: Charcoal",
+        "photoUrl" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1660209262_2055688.jpg?format=webp&w=1080&dpr=1.3",
+        "price" : "₹ 499"
+    },
+    {
+        "id" : "6",
+        "name" : "DC: Justice League",
+        "photoUrl" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1663857100_8199940.jpg?format=webp&w=768&dpr=1.3",
+        "price" : "₹ 999"
+    },
+    {
+        "id" : "7",
+        "name" : "Supima Cotton: Pista",
+        "photoUrl" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1658767259_6320979.jpg?format=webp&w=768&dpr=1.3",
+        "price" : "₹ 799"
+    },
+    {
+        "id" : "7",
+        "name" : "Courage: Face",
+        "photoUrl" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1654063965_9938357.jpg?format=webp&w=768&dpr=1.3",
+        "price" : "₹ 499"
+    }
+    
+]
